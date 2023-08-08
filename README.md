@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **learning Angular.**
 
-- 🌱 I’m currently learning **Angular.**
+- 🌱 I’m currently learning **Angular Routing.**
 
 - 👯 I’m looking to collaborate on **a fullstack application.**
 
